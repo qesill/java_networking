@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6193691f-a195-44e4-b222-fde0dbda6138" name="Changes" comment="Programowanie sieciowe" />
+    <list default="true" id="90c877ba-1337-4ce0-8c39-2403377c29b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JSONExchangeRatesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,10 +34,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2QCFzieEWZ5xBEkluuBlJB4n4wa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2QBQCcFFDhq0xdl2Dq7bFWhZ3kL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,16 +43,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/wandrzejkiewicz",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "build.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HttpURLConnectionExample">
-    <configuration name="HttpURLConnectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.HttpURLConnectionExample" />
+  <component name="RunManager" selected="Application.JSONExchangeRatesExample">
+    <configuration name="InetAddressExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.InetAddressExample" />
       <module name="java_networking" />
       <extension name="coverage">
         <pattern>
@@ -63,47 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServerSocketExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ServerSocketExample" />
-      <module name="java_networking" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ServerSocketMultiThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ServerSocketMultiThread" />
-      <module name="java_networking" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="URLConnectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.URLConnectionExample" />
-      <module name="java_networking" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="URLExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.URLExample" />
+    <configuration name="JSONExchangeRatesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JSONExchangeRatesExample" />
       <module name="java_networking" />
       <extension name="coverage">
         <pattern>
@@ -117,42 +80,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HttpURLConnectionExample" />
-        <item itemvalue="Application.URLConnectionExample" />
-        <item itemvalue="Application.URLExample" />
-        <item itemvalue="Application.ServerSocketMultiThread" />
-        <item itemvalue="Application.ServerSocketExample" />
+        <item itemvalue="Application.JSONExchangeRatesExample" />
+        <item itemvalue="Application.InetAddressExample" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6193691f-a195-44e4-b222-fde0dbda6138" name="Changes" comment="" />
-      <created>1684849923932</created>
+      <changelist id="90c877ba-1337-4ce0-8c39-2403377c29b1" name="Changes" comment="" />
+      <created>1684824370952</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1684849923932</updated>
+      <updated>1684824370952</updated>
     </task>
-    <task id="LOCAL-00001" summary="Programowanie sieciowe">
-      <created>1684876718670</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1684876718670</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Programowanie sieciowe">
-      <created>1684877066404</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1684877066404</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Programowanie sieciowe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programowanie sieciowe" />
   </component>
 </project>
