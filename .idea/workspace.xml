@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90c877ba-1337-4ce0-8c39-2403377c29b1" name="Changes" comment="JSONExchangeRatesExample">
-      <change afterPath="$PROJECT_DIR$/example.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JSONFileParsingExample.java" afterDir="false" />
+    <list default="true" id="90c877ba-1337-4ce0-8c39-2403377c29b1" name="Changes" comment="JSONFileParsingExample">
+      <change afterPath="$PROJECT_DIR$/example.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,11 +122,19 @@
       <option name="project" value="LOCAL" />
       <updated>1684925693525</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JSONFileParsingExample">
+      <created>1684926762164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684926762164</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JSONExchangeRatesExample" />
-    <option name="LAST_COMMIT_MESSAGE" value="JSONExchangeRatesExample" />
+    <MESSAGE value="JSONFileParsingExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="JSONFileParsingExample" />
   </component>
 </project>
