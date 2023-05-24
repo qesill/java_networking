@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90c877ba-1337-4ce0-8c39-2403377c29b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JSONExchangeRatesExample.java" afterDir="false" />
+    <list default="true" id="90c877ba-1337-4ce0-8c39-2403377c29b1" name="Changes" comment="JSONExchangeRatesExample">
+      <change afterPath="$PROJECT_DIR$/example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JSONFileParsingExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2QBQCcFFDhq0xdl2Dq7bFWhZ3kL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,7 +54,12 @@
     "settings.editor.selected.configurable": "build.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.JSONExchangeRatesExample">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wandrzejkiewicz\IdeaProjects\java_networking\target" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JSONFileParsingExample">
     <configuration name="InetAddressExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.InetAddressExample" />
       <module name="java_networking" />
@@ -78,8 +86,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JSONFileParsingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JSONFileParsingExample" />
+      <module name="java_networking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JSONFileParsingExample" />
         <item itemvalue="Application.JSONExchangeRatesExample" />
         <item itemvalue="Application.InetAddressExample" />
       </list>
@@ -94,6 +116,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684824370952</updated>
     </task>
+    <task id="LOCAL-00001" summary="JSONExchangeRatesExample">
+      <created>1684925693525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684925693525</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JSONExchangeRatesExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="JSONExchangeRatesExample" />
   </component>
 </project>
